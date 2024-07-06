@@ -10,3 +10,14 @@ CAVIS: Context-Aware Video Instance Segmentation [**Paper**](https://arxiv.org/a
 
 
 We will release our code soon.
+
+
+## Citation
+```BibTeX
+@article{lee2024context,
+  title={Context-Aware Video Instance Segmentation},
+  author={Lee, Seunghun and Seo, Jiwan and Han, Kiljoon and Choi, Minwoo and Im, Sunghoon},
+  journal={arXiv preprint arXiv:2407.03010},
+  year={2024}
+}
+```
