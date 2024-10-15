@@ -9,7 +9,9 @@ CAVIS: Context-Aware Video Instance Segmentation [**Paper**](https://arxiv.org/a
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/context-aware-video-instance-segmentation/video-panoptic-segmentation-on-vipseg)](https://paperswithcode.com/sota/video-panoptic-segmentation-on-vipseg?p=context-aware-video-instance-segmentation)
 
 
-We will release our code soon.
+## News
+
+We were originally planning to release the code in this October, but we regret to inform you that the organization of the code has been delayed due to multiple ongoing projects. We appreciate your understanding and will provide further updates as soon as possible.
 
 
 ## Citation
