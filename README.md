@@ -10,8 +10,16 @@ CAVIS: Context-Aware Video Instance Segmentation [**Paper**](https://arxiv.org/a
 
 
 ## News
+- We release our code with trained models `2024.12.05`
 
-We were originally planning to release the code in this October, but we regret to inform you that the organization of the code has been delayed due to multiple ongoing projects. We appreciate your understanding and will provide further updates as soon as possible.
+## Data preparation & Installation
+See [Datasets](datasets/README.md) & [Installation](INSTALL.md)
+
+## Getting Started
+See [Getting Started with CAVIS](GETTING_STARTED.md)
+
+## Model Zoo
+We provide our trained models [here](MODEL_ZOO.md)
 
 
 ## Citation
