@@ -8,6 +8,8 @@ CAVIS: Context-Aware Video Instance Segmentation [**Paper**](https://arxiv.org/a
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/context-aware-video-instance-segmentation/video-panoptic-segmentation-on-vipseg)](https://paperswithcode.com/sota/video-panoptic-segmentation-on-vipseg?p=context-aware-video-instance-segmentation)
 
+<img src="https://github.com/Seung-Hun-Lee/CAVIS/blob/main/assets/CAVIS_2024.png" width="800"/>
+</div>
 
 ## News
 - We release our code with trained models `2024.12.05`
