@@ -35,7 +35,7 @@ python -m pip install detectron2 -f \
 pip install git+https://github.com/cocodataset/panopticapi.git
 
 # download this repository and unzip
-cd CAVIS_ICLR2025-73E7
+cd CAVIS
 pip install -r requirements.txt
 cd mask2former/modeling/pixel_decoder/ops
 sh make.sh
