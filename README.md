@@ -1,4 +1,4 @@
-# CAVIS
+# CAVIS (ICCV 2025)
 CAVIS: Context-Aware Video Instance Segmentation [**Paper**](https://arxiv.org/abs/2407.03010) \| [**Project**](https://seung-hun-lee.github.io/projects/CAVIS/)
 
 
@@ -12,6 +12,7 @@ CAVIS: Context-Aware Video Instance Segmentation [**Paper**](https://arxiv.org/a
 </div>
 
 ## News
+- CAVIS has been accepted to **ICCV 2025** 🎉 `2025.06.25`
 - We release our code with trained models `2024.12.05`
 
 ## Data preparation & Installation
