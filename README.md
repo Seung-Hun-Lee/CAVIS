@@ -12,6 +12,7 @@ CAVIS: Context-Aware Video Instance Segmentation [**Paper**](https://arxiv.org/a
 </div>
 
 ## News
+- Check out our new ICCV 2025 paper [LOMM](https://seung-hun-lee.github.io/projects/LOMM/), setting a new SOTA (54.0 AP) on YouTube-VIS 2022!
 - CAVIS has been accepted to **ICCV 2025** 🎉 `2025.06.25`
 - We release our code with trained models `2024.12.05`
 
